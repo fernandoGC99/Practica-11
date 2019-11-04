@@ -1,0 +1,70 @@
+body {
+    background-color: rgb(255, 255, 255);
+    font-size: 25px
+    }
+    #P1 {
+        text-align: center; 
+        background-color: silver;
+    } 
+
+    #P2 {
+        text-align: center; 
+        background-color: silver;
+    }
+
+    #P3 { 
+        text-align: left;    
+        background-color: yellow;
+    }
+    
+    #P4 {
+        text-align: left;       
+        text-decoration-color: darkgrey;
+    
+    }
+    
+    #Tachado{
+        text-decoration-line: line-through;
+    }
+
+    #azul{
+        color: blue;
+        
+    }
+
+
+    #Española{
+        background-color: yellow;
+
+    }
+    
+    #Seleccion{
+        background-color: red;
+
+    }
+
+    #Texto {
+        text-align: left;
+        background-color: rgb(160, 110, 114);
+
+    }          
+   
+    #Datos {
+        background-color: rgb(181, 241, 121);
+        text-align: center;
+        width:100%
+
+    }
+
+   
+
+
+
+
+
+
+
+
+
+    
+

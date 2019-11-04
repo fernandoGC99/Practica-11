@@ -10,7 +10,10 @@ body {
         
 
     }
+    #imagen {
+        background-image: image-set(imagenes/BisbalS);
 
+}
    
 
 

@@ -11,7 +11,7 @@ body {
 
     }
     #imagen {
-        background-image: image-set(imagenes/BisbalS);
+        background-image: url(ima);
 
 }
    
